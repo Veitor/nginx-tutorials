@@ -1,3 +1,9 @@
+中文在线文档地址为：https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html
+
+为了防止在线地址以及原github库失效或删除，特此fork做以留存。因此该fork出来的库会将停留在当前fork的日期（2019年11月13日），建议优先前往原地址查看最新版本。
+
+---
+
 This repository holds the source scripts for my Nginx tutorial series
 published here:
 
